@@ -1,4 +1,4 @@
-# dbstruct
+# dbStruct.php
 The class provides the ability to compare 2 database structure dumps and compile a set of SQL statements to update one database to make its structure identical to another.
 
 This Class was originally written by Kirill Gerasimenko <ger.kirill@gmail.com>. However, it hasn't been updated since 2012. When I updated some of my projects using dbStruct.php to PHP 8 the class stopped working.
